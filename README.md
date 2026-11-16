@@ -36,27 +36,38 @@ The application simulates a real-world IT service desk environment where users c
 | Jinja2 | Dynamic page templates |
 | Git & GitHub | Version control and portfolio |
 
-## Project Screenshots
 
-### 1. ServiceDesk Dashboard
+## Application Screenshots
 
-![ServiceDesk Dashboard](screenshots/01-dashboard.png)
+### IT ServiceDesk Dashboard
+![Dashboard](screenshots/01-dashboard.png)
 
-### 2. Ticket Management
-
+### Support Ticket Management
 ![Ticket Management](screenshots/02-ticket-management.png)
 
-### 3. Create New Ticket
+### Create a Support Ticket
+![Create Ticket](screenshots/03-create-ticket.png)
 
-![Create New Ticket](screenshots/03-create-ticket.png)
-
-### 4. Ticket Details
-
+### Ticket Details and Technician Workflow
 ![Ticket Details](screenshots/04-ticket-details.png)
 
-### 5. User Login
-
+### User Authentication
 ![Login Page](screenshots/05-login.png)
+
+## Technical Implementation
+
+### Access Control and CSRF Protection
+![Security Implementation](screenshots/06-security-code.png)
+
+### Login Authentication and Password Verification
+![Authentication Logic](screenshots/07-authentication-code.png)
+
+### Dynamic Dashboard Statistics
+![Dashboard Logic](screenshots/08-dashboard-code.png)
+
+### Priority Analytics Visualization
+![Priority Analytics](screenshots/09-priority-analytics-code.png)
+
 
 ## Security Implementation
 
