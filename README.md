@@ -49,17 +49,15 @@ The application simulates a real-world IT service desk environment where users c
 ![Create Ticket](https://i.imgur.com/zWWvhgu.png)
 
 ### Ticket Details and Technician Workflow
-![Ticket Details](<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/ad1c479c-ee23-407b-9d8c-0cc94d7ce9ce" />
-)
+![Ticket Details](https://i.imgur.com/U6xr0NA.png)
 
 ### User Authentication
-![Login Page](<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/83174239-f92b-4db5-b477-e1ec17b08391" />
-)
+![Login Page](https://i.imgur.com/flC4LWN.png)
 
 ## Technical Implementation
 
 ### Access Control and CSRF Protection
-![Security Implementation](screenshots/06-security-code.png)
+![Security Implementation](blob:https://imgur.com/7eef3fec-2ecf-45bc-8b04-b75d83aaedee)
 
 ### Login Authentication and Password Verification
 ![Authentication Logic](screenshots/07-authentication-code.png)
