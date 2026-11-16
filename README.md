@@ -57,16 +57,16 @@ The application simulates a real-world IT service desk environment where users c
 ## Technical Implementation
 
 ### Access Control and CSRF Protection
-![Security Implementation](blob:https://imgur.com/7eef3fec-2ecf-45bc-8b04-b75d83aaedee)
+![Security Implementation](https://i.imgur.com/t39qEx3.png)
 
 ### Login Authentication and Password Verification
-![Authentication Logic](screenshots/07-authentication-code.png)
+![Authentication Logic](https://i.imgur.com/ZPQZNSD.png)
 
 ### Dynamic Dashboard Statistics
-![Dashboard Logic](screenshots/08-dashboard-code.png)
+![Dashboard Logic](https://i.imgur.com/oihkQ9w.png)
 
 ### Priority Analytics Visualization
-![Priority Analytics](screenshots/09-priority-analytics-code.png)
+![Priority Analytics](https://i.imgur.com/epvewrh.png)
 
 
 ## Security Implementation
