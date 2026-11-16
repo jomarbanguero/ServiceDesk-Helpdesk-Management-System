@@ -43,7 +43,7 @@ The application simulates a real-world IT service desk environment where users c
 ![Dashboard](https://i.imgur.com/O7b6tpO.png)
 
 ### Support Ticket Management
-![Ticket Management](screenshots/02-ticket-management.png)
+![Ticket Management](https://i.imgur.com/j7C8WuG.png)
 
 ### Create a Support Ticket
 ![Create Ticket](screenshots/03-create-ticket.png)
