@@ -46,13 +46,15 @@ The application simulates a real-world IT service desk environment where users c
 ![Ticket Management](https://i.imgur.com/j7C8WuG.png)
 
 ### Create a Support Ticket
-![Create Ticket](screenshots/03-create-ticket.png)
+![Create Ticket](https://i.imgur.com/zWWvhgu.png)
 
 ### Ticket Details and Technician Workflow
-![Ticket Details](screenshots/04-ticket-details.png)
+![Ticket Details](<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/ad1c479c-ee23-407b-9d8c-0cc94d7ce9ce" />
+)
 
 ### User Authentication
-![Login Page](screenshots/05-login.png)
+![Login Page](<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/83174239-f92b-4db5-b477-e1ec17b08391" />
+)
 
 ## Technical Implementation
 
