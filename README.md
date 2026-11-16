@@ -40,7 +40,7 @@ The application simulates a real-world IT service desk environment where users c
 ## Application Screenshots
 
 ### IT ServiceDesk Dashboard
-![Dashboard](screenshots/01-dashboard.png)
+![Dashboard](https://imgur.com/a/w0U1tCL)
 
 ### Support Ticket Management
 ![Ticket Management](screenshots/02-ticket-management.png)
